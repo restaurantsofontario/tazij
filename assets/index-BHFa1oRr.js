@@ -73,7 +73,6 @@ Error generating stack: `+a.message+`
         justify-center\r
         items-center\r
         min-h-[300px]\r
-\r
       `,children:[T.jsx("h1",{className:`\r
           text-4xl\r
           font-semibold\r
@@ -81,6 +80,7 @@ Error generating stack: `+a.message+`
           text-balance\r
           text-white\r
           sm:text-7xl\r
+          text-center\r
         `,children:"TAZIJ SHAWARMA AND PIZZA"}),T.jsx("p",{className:`\r
           mt-8\r
           text-lg\r
