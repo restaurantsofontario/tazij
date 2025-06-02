@@ -149,10 +149,10 @@ function Menu() {
           '>
             Full Menu (Click to Expand)
           </h2>
-          <a href="https://restaurantsofontario.github.io/tasteofdanforth/menu1.png" target="_blank" rel="noopener noreferrer">
+          <a href="https://restaurantsofontario.github.io/tazij/menu1.jpg" target="_blank" rel="noopener noreferrer">
             <img src={Menu1} />
           </a>
-          <a href="https://restaurantsofontario.github.io/tasteofdanforth/menu1.png" target="_blank" rel="noopener noreferrer">
+          <a href="https://restaurantsofontario.github.io/tazij/menu2.jpg" target="_blank" rel="noopener noreferrer">
             <img src={Menu2} />
           </a>
         </div>

@@ -17,7 +17,9 @@ export default function Location() {
         '>
           Location
         </h3>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1442.4252921917362!2d-79.2816723!3d43.692869599999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cf565b0101c9%3A0x892ca4a1f3737888!2sTaste%20of%20Danforth!5e0!3m2!1sen!2sca!4v1748301723765!5m2!1sen!2sca" loading="lazy" className='
+        <iframe src="
+        https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.1700321856933!2d-79.2693806896821!3d43.70701539219816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cfa13bf7cd81%3A0x835fb7e64fb6ab5d!2sTAZIJ%20SHAWARMA%20AND%20PIZZA!5e0!3m2!1sen!2sca!4v1748899573943!5m2!1sen!2sca
+        " loading="lazy" className='
           rounded-lg
           w-full
           h-[400px]
