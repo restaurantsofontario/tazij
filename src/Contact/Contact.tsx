@@ -57,7 +57,7 @@ function Contact() {
             justify-center
             gap-4
           '>
-            <FontAwesomeIcon icon={faPhone} /><a href="tel:+16473688301" className='underline hover:text-blue-500'>+1 647 368 8301</a>
+            <FontAwesomeIcon icon={faPhone} /><a href="tel:+14166901111" className='underline hover:text-blue-500'>+1 416 690 1111</a>
           </div>
           <div className='
             flex
