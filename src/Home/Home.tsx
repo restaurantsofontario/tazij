@@ -12,7 +12,6 @@ function Home() {
         justify-center
         items-center
         min-h-[300px]
-
       '>
         <h1 className='
           text-4xl
@@ -21,6 +20,7 @@ function Home() {
           text-balance
           text-white
           sm:text-7xl
+          text-center
         '>
           TAZIJ SHAWARMA AND PIZZA
         </h1>
