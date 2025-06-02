@@ -1,7 +1,7 @@
 import Hours from '../Hours/Hours'
 import Location from '../Location/Location'
-import Plate3 from '/plate3.jpg';
-import Plate1 from '/plate1.jpg';
+import Vibe from '/vibe.jpg';
+import Sweets from '/sweets.jpg';
 
 function About() {
 
@@ -66,7 +66,7 @@ function About() {
                 text-gray-800
                 text-center
               '>
-                Danforth's Comfort Food for Over 4 Years
+                A Small Eatery brought Birchmount Comfort Food
               </h3>
               <p className='
                 text-center
@@ -75,11 +75,11 @@ function About() {
                 leading-relaxed
                 flex-grow
               '>
-                At Taste of Danforth, we started small—with a passion for great food, honest ingredients, and a dream to bring authentic South Asian flavors to our local community. What began as a humble kitchen has grown into a beloved spot on Danforth Avenue, where every dish is crafted with care, culture, and a whole lot of heart. Thanks to the support of our amazing customers and the dedication of our team, we've become more than just a restaurant—we're a destination for flavor, tradition, and warm hospitality. Each plate tells a tale of where we came from—and where we're headed, so come be part of our story!
+                Tazij Shawarma and Pizza started as a small, family-run kitchen with a big dream — to bring fresh, flavorful halal food to the heart of Birchmount. What began with a simple grill, a few cherished family recipes, and a passion for good food quickly grew into a beloved local spot known for generous portions, homemade taste, and warm hospitality. Every dish we serve still carries the same care and tradition that started it all.
               </p>
             </div>
             <img 
-              src={Plate3} 
+              src={Vibe} 
               className='
                 object-cover
                 rounded-lg
@@ -97,7 +97,7 @@ function About() {
             gap-4
           '>
             <img 
-              src={Plate1} 
+              src={Sweets} 
               className='
                 object-cover
                 rounded-lg
@@ -119,7 +119,7 @@ function About() {
                 text-gray-800
                 text-center
               '>
-                A Generous Sprinkle of Authentic
+                A Community Worth Cooking For
               </h3>
               <p className='
                 text-center
@@ -128,7 +128,7 @@ function About() {
                 leading-relaxed
                 flex-grow
               '>
-                we believe great food starts with fresh ingredients and a love for tradition. Every dish on our menu is made using time-honored recipes and bold, classic spices that capture the true essence of South Asian cuisine. From the first sizzle in the pan to the final garnish, we take pride in delivering food that's not just delicious—but genuinely authentic. Our meats are halal and marinated in-house, our vegetables are hand-selected, and every bite is a reflection of our commitment to quality and culture.
+                At Tazij, our kitchen is powered by more than just skill — it's driven by passion and a deep love for the community we serve. Our cooks come in each day with one goal: to make every meal feel like home. Whether they're grilling up a juicy shawarma plate, flipping burgers to perfection, or frying a fresh batch of crispy fries, every dish is crafted with care and flavor you can taste. What truly sets us apart is our pride in blending cultures through food. Alongside Birchmount's favorite comfort foods, our team delights in preparing traditional Bengali sweets — like nimki, samosas, and other homemade treats — a nod to their roots and a way to share a little sweetness with every guest.
               </p>
             </div>
           </div>

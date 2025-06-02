@@ -1,6 +1,6 @@
 import Hours from '../Hours/Hours'
 import StoreFront from '/front.jpg'
-import Plate5 from '/plate5.jpg'
+import Plate1 from '/plate1.jpg'
 
 function Home() {
   return (
@@ -22,7 +22,7 @@ function Home() {
           text-white
           sm:text-7xl
         '>
-          TASTE OF DANFORTH
+          TAZIJ SHAWARMA AND PIZZA
         </h1>
         <p className='
           mt-8
@@ -34,7 +34,7 @@ function Home() {
           text-center
           px-4
         '>
-          THE TRUE COMFORT (FOOD) OF DANFORTH
+          Scarborough's Shawarma and Pizzeria since 2020
         </p>
       </div>
       {/* Content */}
@@ -62,7 +62,7 @@ function Home() {
             text-gray-800
             mb-4
           '>
-            The Heart of Danforth since 2019
+            A Scarborough Classic Eatery
           </h2>
           <p className='
             text-center
@@ -71,7 +71,8 @@ function Home() {
             leading-relaxed
             mb-6
           '>
-            Taste of Danforth is praised as the stand-out, must-visit spot in Scarborough for those craving authentic South Asian cuisine. With its delicious offerings, friendly service, and inviting ambiance, it's a culinary gem that continues to delight both locals and visitors alike.
+            At Tazij, we believe great food starts with fresh ingredients and ends with a satisfied smile. Whether you're craving a juicy shawarma wrap, a cheesy slice of pizza, or a hearty burger hot off the grill, we've got something for everyone. Our menu blends classic Middle Eastern flavors with local favorites, offering everything from crispy samosas to handcrafted Bengali sweets.
+            Proudly serving the Birchmount community with generous portions, affordable prices, and friendly service, we're more than just a restaurant — we're a neighborhood staple.
           </p>
           <div className='
             flex
@@ -89,7 +90,7 @@ function Home() {
               '
             />
             <img 
-              src={Plate5} 
+              src={Plate1} 
               className='
                 object-cover
                 w-1/4
@@ -133,11 +134,11 @@ function Home() {
               rounded-lg
               shadow-sm
             '>
-              <p>"[Taste of Danforth] was an incredible experience!"</p>
+              <p>"Everything was fresh and good portions. Fast service and friendly staff."</p>
               <span className='
                 text-sm
                 text-gray-500
-              '>– Anisa via Google</span>
+              '>– Chris via Google</span>
             </div>
             <div className='
               bg-gray-100
@@ -145,11 +146,11 @@ function Home() {
               rounded-lg
               shadow-sm
             '>
-              <p>"The snacks they offer are quite tasty, making it one of the top choices in the neighborhood."</p>
+              <p>"They clearly care about their customers and want to offer a great experience. I would be back in a heartbeat."</p>
               <span className='
                 text-sm
                 text-gray-500
-              '>– Stephen via Google</span>
+              '>– Alyssa via Google</span>
             </div>
             <div className='
               bg-gray-100
@@ -157,11 +158,11 @@ function Home() {
               rounded-lg
               shadow-sm
             '>
-              <p>"Best samosa I've ever had in my life! Stopped to pick up more on my way home."</p>
+              <p>"I visited the store, staff was so friendly and kind. The food was so delicious especially the tea was outstanding. I wish to visit this store again and again."</p>
               <span className='
                 text-sm
                 text-gray-500
-              '>– Leslie via Google</span>
+              '>– Monika via Google</span>
             </div>
           </div>
         </div>

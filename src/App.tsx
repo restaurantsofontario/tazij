@@ -19,6 +19,8 @@ function App() {
         bg-[url(/background.png)]
         bg-fixed
         bg-cover
+        bg-right
+        2xl:bg-center
       '>
         <div className='
           w-full

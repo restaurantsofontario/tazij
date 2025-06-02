@@ -15,7 +15,7 @@ function Header({setActiveTab}: headerProps) {
         p-2
         lg:px-8
         text-sm/6 font-semibold
-        text-blue-400
+        text-green-400
         bg-black/80
         lg:rounded-b-3xl
       '>
@@ -26,9 +26,7 @@ function Header({setActiveTab}: headerProps) {
           rounded-md
           p-2.5
           mr-auto
-          max-w-[120px]
-          md:max-w-[200px]
-          
+          max-w-[200px]
         '><img src={Logo} className='rounded-sm h-16'/></button>
         <button type='button' onClick={() => setActiveTab('Menu')} className='
           inline-flex

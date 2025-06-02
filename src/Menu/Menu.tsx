@@ -1,6 +1,7 @@
-import ChickenBiryani from '/chickenbiryani.jpg';
-import RiceChana from '/whitericechana.jpg';
-import Menu1 from '/menu1.png';
+import BeefShawarmaPlate from '/beefshawarma.jpg';
+import Burger from '/burger.jpg';
+import Menu1 from '/menu1.jpg';
+import Menu2 from '/menu2.jpg';
 
 function Menu() {
 
@@ -50,7 +51,7 @@ function Menu() {
             text-gray-800
             text-center
           '>
-            Danforth's Picks
+            Birchmount's Picks
           </h2>
           <div className='
             flex
@@ -64,14 +65,14 @@ function Menu() {
               text-gray-800
               min-w-[200px]
             '>
-              ▼ Chicken Biryani - $10.99
+              ▼ Beef Shawarma Plate - $13.99
             </h3>
             <p className='
               text-gray-600
               text-lg
               leading-relaxed
             '>
-              Fragrant basmati rice layered with tender, marinated chicken, slow-cooked with aromatic spices and herbs. Each bite delivers bold flavor, rich texture, and that perfect touch of heat. Served hot and fresh
+              Tender, marinated strips of halal beef, slow-roasted to perfection and served over a bed of fragrant basmati rice — our Beef Shawarma Plate is a fan favorite for a reason. Paired with crisp salad, warm pita, and our house-made garlic and tahini sauces, every bite is a delicious balance of bold spices and fresh ingredients.
             </p>
           </div>
           <div className='
@@ -83,7 +84,7 @@ function Menu() {
             md:my-8
           '>
             <img 
-              src={ChickenBiryani} 
+              src={BeefShawarmaPlate} 
               className='
                 object-cover
                 h-80
@@ -96,7 +97,7 @@ function Menu() {
               '
             />
             <img 
-              src={RiceChana} 
+              src={Burger} 
               className='
                 object-cover
                 h-80
@@ -121,7 +122,7 @@ function Menu() {
               leading-relaxed
               text-right
             '>
-              Fluffy basmati rice paired with slow-cooked chickpeas in a rich, spiced gravy—it's wholesome, hearty, and full of flavor. Perfect for a quick lunch or a cozy classic dinner.
+              Sink your teeth into our juicy, flame-grilled beef burger — seasoned just right and stacked with fresh toppings on a soft, toasted bun. Served with a generous side of golden, crispy fries, this combo is comfort food done right.
             </p>
             <h3 className='
               text-3xl
@@ -129,7 +130,7 @@ function Menu() {
               text-gray-800
               min-w-[200px]
             '>
-              ▲ White Rice with Chana - $8.99
+              ▲ Beef Burger Combo - $7.99
             </h3>
           </div>
         </div>
@@ -150,6 +151,9 @@ function Menu() {
           </h2>
           <a href="https://restaurantsofontario.github.io/tasteofdanforth/menu1.png" target="_blank" rel="noopener noreferrer">
             <img src={Menu1} />
+          </a>
+          <a href="https://restaurantsofontario.github.io/tasteofdanforth/menu1.png" target="_blank" rel="noopener noreferrer">
+            <img src={Menu2} />
           </a>
         </div>
       </div>
