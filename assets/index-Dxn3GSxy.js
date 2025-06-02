@@ -333,7 +333,7 @@ Error generating stack: `+a.message+`
             text-4xl\r
             font-semibold\r
             text-gray-800\r
-          `,children:"Full Menu (Click to Expand)"}),T.jsx("a",{href:"https://restaurantsofontario.github.io/tasteofdanforth/menu1.png",target:"_blank",rel:"noopener noreferrer",children:T.jsx("img",{src:G1})}),T.jsx("a",{href:"https://restaurantsofontario.github.io/tasteofdanforth/menu1.png",target:"_blank",rel:"noopener noreferrer",children:T.jsx("img",{src:L1})})]})]})]})}function v0(){return T.jsx(T.Fragment,{children:T.jsxs("div",{className:`\r
+          `,children:"Full Menu (Click to Expand)"}),T.jsx("a",{href:"https://restaurantsofontario.github.io/tazij/menu1.jpg",target:"_blank",rel:"noopener noreferrer",children:T.jsx("img",{src:G1})}),T.jsx("a",{href:"https://restaurantsofontario.github.io/tazij/menu2.jpg",target:"_blank",rel:"noopener noreferrer",children:T.jsx("img",{src:L1})})]})]})]})}function v0(){return T.jsx(T.Fragment,{children:T.jsxs("div",{className:`\r
         flex\r
         flex-col\r
         items-center\r
@@ -344,7 +344,9 @@ Error generating stack: `+a.message+`
           font-semibold\r
           text-gray-800\r
           text-center\r
-        `,children:"Location"}),T.jsx("iframe",{src:"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1442.4252921917362!2d-79.2816723!3d43.692869599999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cf565b0101c9%3A0x892ca4a1f3737888!2sTaste%20of%20Danforth!5e0!3m2!1sen!2sca!4v1748301723765!5m2!1sen!2sca",loading:"lazy",className:`\r
+        `,children:"Location"}),T.jsx("iframe",{src:`\r
+        https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.1700321856933!2d-79.2693806896821!3d43.70701539219816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cfa13bf7cd81%3A0x835fb7e64fb6ab5d!2sTAZIJ%20SHAWARMA%20AND%20PIZZA!5e0!3m2!1sen!2sca!4v1748899573943!5m2!1sen!2sca\r
+        `,loading:"lazy",className:`\r
           rounded-lg\r
           w-full\r
           h-[400px]\r
